@@ -22,7 +22,7 @@ export const LandingTestimonial = () => {
                   <p className="text-gray-500 uppercase">@brooklysim</p>
                 </div>
               </div>
-              <p className="text-md ">I’ve tried a few TOEIC prep apps but this one stands out. The practice tests are comprehensive and the performance tracking feature is a game-changer. My score has improved significantly. Highly recommend! 🤙🏻</p>
+              <p className="text-md ">I&apos;ve tried a few TOEIC prep apps but this one stands out. The practice tests are comprehensive and the performance tracking feature is a game-changer. My score has improved significantly. Highly recommend! 🤙🏻</p>
             </div>
             <div className="block">
               <p className="text-sm text-gray-500 font-medium">3 days ago</p>
@@ -85,7 +85,7 @@ export const LandingTestimonial = () => {
                   <p className="text-gray-500 uppercase">@brooklysim</p>
                 </div>
               </div>
-              <p className="text-md">Not only does this app offer great study materials, but it’s also very user-friendly. The layout is clear and easy to navigate, which made my study sessions more enjoyable and productive.</p>
+              <p className="text-md">Not only does this app offer great study materials, but it&apos;s also very user-friendly. The layout is clear and easy to navigate, which made my study sessions more enjoyable and productive.</p>
             </div>
             <div className="block">
               <p className="text-sm text-gray-500 font-medium">3 days ago</p>
@@ -106,7 +106,7 @@ export const LandingTestimonial = () => {
                   <p className="text-gray-500 uppercase">@brooklysim</p>
                 </div>
               </div>
-              <p className="text-md">If you’re preparing for TOEIC, this app is a must-have. It has everything you need - practice tests, performance tracking, study materials, and more. Plus, it’s convenient to use anytime, anywhere.</p>
+              <p className="text-md">If you&apos;re preparing for TOEIC, this app is a must-have. It has everything you need - practice tests, performance tracking, study materials, and more. Plus, it&apos;s convenient to use anytime, anywhere.</p>
             </div>
             <div className="block">
               <p className="text-sm text-gray-500 font-medium">3 days ago</p>
@@ -127,7 +127,7 @@ export const LandingTestimonial = () => {
                   <p className="text-gray-500 uppercase">@brooklysim</p>
                 </div>
               </div>
-              <p className="text-md">I can’t thank this app enough for helping me score high on TOEIC. The practice tests mirrored the actual exam very closely and the performance insights were spot on. I went into the test feeling confident and it paid off!</p>
+              <p className="text-md">I can&apos;t thank this app enough for helping me score high on TOEIC. The practice tests mirrored the actual exam very closely and the performance insights were spot on. I went into the test feeling confident and it paid off!</p>
             </div>
             <div className="block">
               <p className="text-sm text-gray-500 font-medium">3 days ago</p>
