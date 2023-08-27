@@ -7,7 +7,7 @@ export const LandingTestimonial = () => {
         <section className="relative pt-20 pb-32  overflow-hidden">
  
   <div className="relative z-10 container px-4 mx-auto">
-    <h2 className="mb-16 text-4xl  font-bold font-heading text-center tracking-px-n leading-tight text-slate-700">Don't just take our word for it</h2>
+    <h2 className="mb-16 text-4xl  font-bold font-heading text-center tracking-px-n leading-tight text-slate-700">Don&apos;t just take our word for it</h2>
     <div className="flex flex-wrap -m-3">
       <div className="w-full md:w-1/2 lg:w-1/3 p-3">
         <div className="p-6 h-full bg-white bg-opacity-60 border rounded-md">
