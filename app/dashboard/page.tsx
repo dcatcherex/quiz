@@ -1,12 +1,13 @@
-import { LandingNavbar } from "@/components/landing-navbar"
-
+import AnalystPanel from "@/components/dashboard/analyst-panel"
 
 const Dashboard = () => {
   return (
 
-    <div>
-        <LandingNavbar />
-        dashboard</div>
+    <div className="  ">
+        <div className="">
+        <AnalystPanel />
+          </div>
+          </div>
   )
 }
 

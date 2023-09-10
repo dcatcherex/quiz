@@ -16,6 +16,9 @@ module.exports = {
       },
     },
     extend: {
+      backgroundImage: theme => ({
+        'bluetop': "url('/backgroundblue.svg')",
+      }),
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",

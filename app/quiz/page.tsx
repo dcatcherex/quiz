@@ -1,4 +1,3 @@
-import { LandingNavbar } from "@/components/landing-navbar"
 import { RotateCcwIcon, LogOutIcon, List, ChevronLeftIcon, ChevronRightIcon, TriangleIcon } from "lucide-react"
 import { Progress } from "@/components/ui/progress"
 import { Button } from "@/components/ui/button"
@@ -8,11 +7,12 @@ import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group"
 
 
 const Quiz = () => {
+
+
   return (
 
     <div className=" bg-[#F5F5FA] ">
         <div className="mx-auto w-full max-w-screen-lg min-h-screen">
-            <LandingNavbar />
             <div className="flex justify-between items-center bg-white p-2  ">
                 <div className="flex items-center gap-x-2" >
                     <List className="h-4 w-4" />

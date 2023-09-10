@@ -27,10 +27,11 @@ export const LandingHero = () => {
             Sharpen your skills and achieve your highest score with our TOEIC Practice Test App.
             </div>
             <div>
-                <Link href='/dashboard'>
+                <Link href='/quiz'>
                     <Button variant='default' className='bg-[#1C5BB7] md:text-lg p-4 md:p-6 rounded-full font-semibold' >
                     Start Practicing!
                     </Button>
+                    
                 </Link>
             </div>
             <div className='text-zince-400 text-xs md:text-sm font-normal'>
