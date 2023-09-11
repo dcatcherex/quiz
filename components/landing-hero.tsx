@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button';
 
 export const LandingHero = () => {
     return (
-        <div className='text-slate-700 font-bold py-20 text-center space-y-5  '>
+        <div className='text-slate-700 dark:text-white dark:bg-slate-900 font-bold py-20 text-center space-y-5  '>
                
             <div className='text-4xl sm:text-5xl md:text-6xl lg:text-7xl space-y-5 font-extrabold'>
                 <h1 className='uppercase'>Learn Cloud</h1>

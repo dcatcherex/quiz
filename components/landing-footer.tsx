@@ -7,8 +7,8 @@ import Link from "next/link";
 
 export const LandingFooter = () => {
   return (
-    <footer className=" ">
-      <div className="max-w-[1280px] mx-auhref grid grid-cols-1 sd:grid-cols-2 md:grid-cols-4 p-12  text-slate-700 gap-8">
+    <footer className="dark:bg-slate-950  ">
+      <div className="max-w-[1280px] mx-auhref grid grid-cols-1 sd:grid-cols-2 md:grid-cols-4 p-12  text-slate-700 gap-8 dark:text-white">
         <div><Image width="200" height="200" src="/logo.png" alt="" /></div>
         <div>
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio enim, tenetur pariatur facere quas itaque dolores deserunt adipisci facilis cumque!

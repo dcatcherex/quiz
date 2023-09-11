@@ -28,17 +28,17 @@ const features = [
 
 export const LandingContent = () => {
   return (
-    <div className="px-10 pb-20 pt-10 bg-white ">
+    <div className="px-10 pb-20 pt-10 bg-white dark:bg-slate-950 ">
       <div className="flex justify-center py-4">
       </div>
-      <h2 className="text-center text-4xl text-slate-700 font-extrabold mb-10">
+      <h2 className="text-center text-4xl text-slate-700 dark:text-white font-extrabold mb-10">
         Key Features
       </h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3  gap-4">
         {features.map((item) => (
           <Card
             key={item.message}
-            className="bg-slate-700 border-none text-white hover:bg-[#1C5BB7]"
+            className="bg-slate-700 dark:bg-slate-900 dark:hover:bg-[#1C5BB7] border-none text-white hover:bg-[#1C5BB7]"
           >
             <div className={cn('mt-6 ml-6  p-2 w-fit rounded-full', )}>
                 <item.icon className='w-8 h-8 ' />
