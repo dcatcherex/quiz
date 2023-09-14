@@ -39,7 +39,7 @@ const Timer = ({ setting, onTimeUp }) => {
       {!startMain ? (
         <p>Starting in {count}</p>
       ) : (
-        <p>Time remaining: {formatTime(mainCount)}</p>
+        <p>{formatTime(mainCount)}</p>
       )}
     </div>
   );

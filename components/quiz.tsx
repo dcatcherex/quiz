@@ -93,14 +93,18 @@ const Quiz = () => {
   return (
     <div className=" bg-[#F5F5FA] dark:bg-slate-950 rounded-lg">
       <div className="mx-auto w-full max-w-screen-lg min-h-screen">
-        <div className="flex gap-x-4 px-4 pb-4 ">
-          <div>
+        <div className="flex gap-x-4  pb-4 ">
+
+          {/* ExamSheet */}
+          {/* <div>
             <ExamSheet />
-          </div>
+          </div> */}
           <div className=" mx-auto w-full bg-white dark:bg-slate-950 py-4 px-8 rounded-md ">
             <div>
-            <Timer setting={20} onTimeUp={() => setIsExamInProgress(false)} />
-              <p>{data.length}</p>
+            <div className="flex justify-between">
+                <p>{selectedAnswers.length} out of {data.length}</p>
+              <Timer setting={20} onTimeUp={() => setIsExamInProgress(false)} />
+            </div>
               <Progress value={(selectedAnswers.length/data.length)*100} className="mb-4 color-green-500"/>
             </div>
             <h3 className="text-xl font-bold text-center mb-4">ข้อสอบ</h3>

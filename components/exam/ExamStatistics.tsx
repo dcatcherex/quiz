@@ -21,7 +21,7 @@ const ExamStatistic = ({
 }) => {
   return (
     <div className="pt-6">
-      <h2 className="text-2xl  text-white font-bold">Exam Statistic</h2>
+      <h2 className="text-2xl   font-bold">Exam Statistic</h2>
 
       <div className="flex gap-4 text-white/40">
         <div className="">
