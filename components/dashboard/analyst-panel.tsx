@@ -1,6 +1,7 @@
 import React from "react";
 import { PlayIcon } from "lucide-react";
 import Image from "next/image";
+import ChartRadar from "@/components/exam/chart-radar"
 
 type Props = {};
 
@@ -8,12 +9,15 @@ const AnalystPanel = (props: Props) => {
   return (
     <div className="h-screen">
       {/* grid */}
-      <div className="grid grid-cols-2 gap-4">
+      <div className="grid md:grid-cols-2 gap-4">
         <div className="bg-white rounded-md min-h-[400px]">
           <div className="py-2 px-4">
             <h1 className="text-md font-bold">Analyst</h1>
           </div>
           <hr />
+          <div className="p-6">
+            <ChartRadar />
+          </div>
         </div>
         <div className="bg-white rounded-md min-h-[400px]">
           <div className="py-2 px-4">

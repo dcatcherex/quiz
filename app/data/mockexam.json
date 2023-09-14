@@ -1,0 +1,137 @@
+[
+  {
+    "question": "101.This isn’t the first time the company has been in trouble with the law: just three years ago, the previous CEO ____ embezzling and sentenced to ten years in prison.",
+    "options": ["caught", "was", "was caught", "had caught"],
+    "answer": "was caught",
+    "explain": "The missing word is a verb. Since it's impossible for the CEO to catch themselves embezzling (i.e. stealing money from the company or the company’s clients), someone else has to catch them, so the verb needs to be in the passive voice. The only verb in the passive voice is (C) was caught. Therefore, (A) (B) and (D) are all incorrect"
+  },
+  {
+    "question": "102.The manuscript is a first edition in  ____  condition, so it’s going to be worth a lot of money.",
+    "options": ["precise", "pristine", "precious", "profound"],
+    "answer": "pristine",
+    "explain": "The missing word collocates with condition to mean ‘excellent’ condition. (B) pristine means ‘excellent’ and collocates with condition, so it’s correct.(A) is incorrect because precise means ‘accurate’, not excellent. (C) is incorrect because a manuscript can be precious (i.e. valuable) but not in a precious condition, and (D) is wrong because profound means either intense or exhibiting great insight, but can only apply to humans, feelings or statements - not a manuscript."
+  },
+  {
+    "question": "103.The bank said my credit score was too low, so they ____ to offer me a loan without a guarantor.",
+    "options": ["were unable", "were incapable", "couldn’t", "shouldn’t"],
+    "answer": "A",
+    "explain": "The missing word needs to convey inability. This automatically excludes (D) shouldn’t, which conveys rules. What also excludes shouldn’t is that it’s followed by an infinitive without ‘to’. (C) couldn’t is incorrect for the same reason, even though it conveys inability. (B) were incapable is incorrect because it’s followed by of + gerund. (A) were unable is the only option followed by infinitive with ‘to’, so it’s the correct answer."
+  },
+  {
+    "question": "104. ____ light of these recent discoveries, the company director will be stepping down from his position.",
+    "options": ["On", "At", "In", "With"],
+    "answer": "C",
+    "explain": "The missing word is a preposition that collocates with light of to mean ‘as a direct result of’. (C) in is the preposition that collocates with light of, so it’s the correct answer. This means that (A) on, (B) at and (D) with are all incorrect."
+  },
+  {
+    "question": "105.What ____ all morning? You look so tired and sweaty!",
+    "options": [
+      "did you do",
+      "have you been",
+      "have you been doing",
+      "had you done"
+    ],
+    "answer": "C",
+    "explain": "The missing word is a verb. All four options are verbs in different tenses. As the person says you look tired and sweaty, talking about the present, (A) and (D) are incorrect. Since the person says all morning, the action must have been continuous, so (C) is correct and (B) is incorrect."
+  },
+  {
+    "question": "106.He tends to take things at ____ value, so you can’t be sarcastic or ironic with him.",
+    "options": ["face", "hand", "arm", "head"],
+    "answer": "A",
+    "explain": "The missing word collocates with value to mean that somebody does not seek hidden meanings in what they are told. The correct collocation is at face value, so (A) is correct. This means that (B) hand, (C) arm and (D) head are all incorrect."
+  },
+  {
+    "question": "107.I made it ____ clear to him that I was not going to accept any delays in the delivery of the final draft.",
+    "options": ["perfect", "definitely", "scarcely", "abundantly"],
+    "answer": "D",
+    "explain": "The missing word collocates with clear to mean it’s very clear. While perfectly collocates with clear, the adjective perfect doesn’t, so (A) is incorrect. (B) is incorrect because definitely cannot collocate with clear or go in that position in the sentence. (C) is incorrect because scarcely means ‘barely’, the opposite of very. (D) abundantly means very, so it’s the correct answer."
+  },
+  {
+    "question": "108. If we time fighting over what to do, ____ we would’ve finished by now.",
+    "options": [
+      "don’t waste",
+      "didn’t waste",
+      "hadn’t wasted",
+      "wouldn’t have wasted"
+    ],
+    "answer": "C",
+    "explain": "The missing word is a verb. Since the sentence starts with if, it’s a conditional sentence. Also, both parts of the sentence are about the past, so the sentence should be in the third conditional - a wish about the past. The structure for the third conditional is ‘ if + past perfect, would/could/might + have + past participle’. This means that (A) don’t waste (present tense) and (B) didn’t waste (past simple) are both incorrect. Since we already have would’vefinished, we are missing the past perfect, i.e. (C) hadn’t wasted. Therefore, (C) is correct and (D) wouldn’t have wasted is incorrect."
+  },
+  {
+    "question": "109. She ____ the alarm upon discovering a slew of confidential documents in an unlocked thumb drive abandoned on his desk.",
+    "options": ["rose", "hit", "lifted", "raised"],
+    "answer": "D",
+    "explain": "The missing word is a verb that collocates with alarm to mean ‘express concerns’. The verb that collocates with alarm is raise, so (D) raised, the past tense of the verb, is correct. This means that (A) rose (past tense of rise), (B) hit (past tense of hit) and (C) lifted (past tense of lift, a synonym of raise) are all incorrect."
+  },
+  {
+    "question": "110.The area next to the bar will be cleared ____ all tables so the DJ can set up there.",
+    "options": ["from", "of", "with", "to"],
+    "answer": "B",
+    "explain": "The missing word is the preposition that follows the verb clear to mean that something is moved away, in this case the tables from the area next to the bar, to make space. The correct preposition for this is of, so (B) is the correct answer. This means that (A) from, (C) with and (D) to are all incorrect."
+  },
+  {
+    "question": "111.The purpose of ____ this is to walk you through the main components and responsibilities of your new role.",
+    "options": ["intention", "induction", "indentation", "inflection"],
+    "answer": "B",
+    "explain": "The missing word is a noun that describes the process of introducing someone to their new job. (B) induction means exactly that, so it’s the correct answer. (A) intention is incorrect because it means planning to do something, and (C) instruction is incorrect because it means telling someone what to do, not explaining their role to them. (D) inflection is incorrect because it has nothing to do with jobs: it describes speech."
+  },
+  {
+    "question": "112. It’s probably a long ____ , but do you happen to know anyone who is fluent in Japanese and looking for a new role at the moment?",
+    "options": ["possibility", "chance", "way", "shot"],
+    "answer": "D",
+    "explain": "The missing word here collocates with a long to create an expression that means something is unlikely. (D) shot is the word missing from the collocation. (A) and (B) are incorrect because they cannot collocate with long. (C) way collocates with long, but it’s used to describe distance or time, not probability."
+  },
+  {
+    "question": "113.The company was contacted but ____ to comment on the proceedings.",
+    "options": ["decline", "declined", "declining", "declination"],
+    "answer": "B",
+    "explain": "The missing word is a verb connected to the subject of the sentence, the company. This automatically excludes (D) declination, as it’s a noun, and (C) declining, as it’s a gerund. The sentence is talking about the past (was contacted), therefore, (B) declined is the correct answer. (A) decline is not only incorrect because it’s in the present tense: it’s also in the first or second person. In the present, the verb must be declines, as we are talking about something the company does."
+  },
+  {
+    "question": "114.The couple has confirmed that they have filed for divorce, ____ irreconcilable differences. The split is reported to be amicable, however.",
+    "options": ["citing", "circulating", "chiding", "censuring"],
+    "answer": "A",
+    "explain": "The missing word is a verb that means to refer to something as evidence. (A) citing means exactly that, so it’s correct. (B) circulating means to flow or distribute. (C) chiding and (D) censuring are synonyms that mean to scold or express disapproval."
+  },
+  {
+    "question": "115.Following lengthy negotiations, the two conglomerates have finally reached an agreement and ____ by the end of the year.",
+    "options": [
+      "merge",
+      "have merged",
+      "will be merging",
+      "will have been merging"
+    ],
+    "answer": "C",
+    "explain": "The missing word is a verb. Since it’s followed by the expression by the end of the year, we are talking about a deadline in the future. This means that (A) merge (present simple) and (B) have merged (present perfect) are both incorrect. (D) will have been merging is incorrect because it focuses on the duration of the action, not the result. (C) will be merging is the only verb form that talks about the future and focuses on the result, not the duration of the action of merging."
+  },
+  {
+    "question": "116.The celebrations of the opening of the two new stations have been ____ by the union’s decision to go on strike.",
+    "options": ["poured", "marred", "charred", "scarred"],
+    "answer": "B",
+    "explain": "The missing word is a verb that means to spoil. (B) marred is a synonym of spoil. (A) tarred means to cover with tar, a material normally used in making roads. (C) charred means to burn something, and (D) scarred means to leave a mark on something."
+  },
+  {
+    "question": "117.I have repeatedly attempted to discuss the situation with him, but ____ with contempt and excuses.",
+    "options": ["met", "have met", "have been met", "have been meeting"],
+    "answer": "C",
+    "explain": "The missing word is the verb meet. To meet with means to have a physical meeting, which you can only do with a human or animal - not with contempt and excuses. To be met with something, however, means to receive it as a reaction, and contempt and excuses can be reactions. This means that the verb needs to be in the passive voice, and (C) have been met is the only passive voice option. This means that (A) met, (B) have met and (D) have been meeting are all incorrect."
+  },
+  {
+    "question": "118.We are ____ to announce that we have now reached our target of 40 million customers in the US alone.",
+    "options": ["delight", "delighted", "delightful", "delightfully"],
+    "answer": "B",
+    "explain": "The missing word follows the verb ‘to be’ (are), so it needs to be an adjective. (A) delight is a noun, and (D) delightfully is an adverb, so they’re both incorrect. To be delighted means to be very happy, whereas to be delightful means to cause happiness. The news can be delightful, but the person announcing it can’t: they can be happy about it, so (B) is the correct answer."
+  },
+  {
+    "question": "119.He might have studied at the most prestigious colleges and trained with some of the best in the field, but it is really his unique insight and ____ personality that allowed him to build such a successful business.",
+    "options": ["blithe", "frivolous", "temperamental", "shrewd"],
+    "answer": "D",
+    "explain": "The missing word is an adjective that describes a personality. Since it’s the reason for somebody’s success, it must be a positive adjective. (D) shrewd is the only positive adjective, as it means to have excellent judgment. Therefore (D) is correct. (A) blithe and (B)frivolous both mean to be carefree, and (C) temperamental means to be moody - neither of which are qualities that tend to make someone successful."
+  },
+  {
+    "question": "120. ____ the results you want, you will need to motivate your team better.",
+    "options": ["Achieve", "Achieving", "To achieve", "To achieving"],
+    "answer": "C",
+    "explain": "The missing word is a verb. The verb needs to convey the purpose of an action: the action is to motivate the team better, and the purpose is the results you want. The grammatical structure for this is known as the ‘infinitive of purpose’, and it’s the infinitive + to, i.e. (C) to achieve. This means that (B) and (D) are incorrect because they are gerunds (achieving), not infinitives, and (A) is incorrect because it’s the infinitive without ‘to’ (achieve)."
+  }
+]

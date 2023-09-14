@@ -2,15 +2,20 @@ import { Combobox } from "@/components/combobox";
 import  Rule  from "@/components/exam/rule";
 import { clsx } from "clsx";
 
+import Quiz from "@/components/quiz";
+
+import { getAuthSession } from "@/lib/nextauth";
+import ExamStatistic from "@/components/exam/ExamStatistics";
+
+
 const Exam = () => {
   return (
-    <div className=" ">
+    <div className=" p-4">
       <div className="mx-auto w-full max-w-screen-lg min-h-screen">
-        
-            <Rule />
-            
+        <Quiz />
+            {/* <Rule /> */}
             {/* <Combobox /> */}
-       
+       <ExamStatistic />
       </div>
     </div>
   );

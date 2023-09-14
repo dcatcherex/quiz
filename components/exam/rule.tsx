@@ -9,7 +9,7 @@ const Rule = (props: Props) => {
     <div className='bg-white text-center max-w-xl mx-auto p-10 rounded-2xl shadow-lg'>
         <div className='flex justify-center mb-4'>
         <Image
-                      src="/rule1.png"
+                      src="/exam/rule1.png"
                       alt="study picture"
                       className="dark:invert"
                       width={350}

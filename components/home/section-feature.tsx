@@ -1,11 +1,10 @@
 "use client";
 
 import { Card, CardTitle, CardHeader, CardContent } from "@/components/ui/card";
-import { LayoutList, ArrowRight, AreaChartIcon, ImageIcon, VideoIcon, Code,User2Icon,ScrollTextIcon, NewspaperIcon } from 'lucide-react'
-import Image from "next/image";
+import { LayoutList, AreaChartIcon, User2Icon } from 'lucide-react'
 import { cn } from "@/lib/utils";
 
-
+const title = "Key Features"
 const features = [
   {
     feature: "Interactive Practice Tests",
@@ -26,13 +25,13 @@ const features = [
 
 ];
 
-export const LandingContent = () => {
+export const SectionFeature = () => {
   return (
     <div className="px-10 pb-20 pt-10 bg-white dark:bg-slate-950 ">
       <div className="flex justify-center py-4">
       </div>
       <h2 className="text-center text-4xl text-slate-700 dark:text-white font-extrabold mb-10">
-        Key Features
+        {title}
       </h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3  gap-4">
         {features.map((item) => (

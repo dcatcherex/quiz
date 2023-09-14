@@ -4,7 +4,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { Button } from '@/components/ui/button';
 
-export const LandingHero = () => {
+export const SectionHero = () => {
     return (
         <div className='text-slate-700 dark:text-white dark:bg-slate-900 font-bold py-20 text-center space-y-5  '>
                

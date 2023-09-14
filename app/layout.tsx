@@ -1,10 +1,8 @@
 import './globals.css'
 import type { Metadata } from 'next'
 import { Noto_Sans_Thai } from 'next/font/google'
-import { ThemeProvider } from '@/components/theme-provider'
 import Providers from '@/components/Provider'
-import { LandingNavbar } from '@/components/landing-navbar'
-import { LandingFooter } from '@/components/landing-footer'
+import { Navbar } from '@/components/navbar'
 
 const noto = Noto_Sans_Thai({ subsets: ['latin'] })
 
@@ -20,11 +18,11 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="th" suppressHydrationWarning>
+    <html lang="en" suppressHydrationWarning>
       <body className={noto.className}>
         
         <Providers>
-          <LandingNavbar />
+          <Navbar />
           <div>{children}</div>
         </Providers>
         </body>

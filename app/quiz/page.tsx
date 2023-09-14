@@ -1,7 +1,6 @@
 import { RotateCcwIcon, LogOutIcon, List, ChevronLeftIcon, ChevronRightIcon, TriangleIcon } from "lucide-react"
 import { Progress } from "@/components/ui/progress"
 import { Button } from "@/components/ui/button"
-import { Label } from "@/components/ui/label"
 import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group"
 
 
@@ -11,9 +10,9 @@ const Quiz = () => {
 
   return (
 
-    <div className=" bg-[#F5F5FA] ">
+    <div className=" bg-[#F5F5FA] dark:bg-slate-900  ">
         <div className="mx-auto w-full max-w-screen-lg min-h-screen">
-            <div className="flex justify-between items-center bg-white p-2  ">
+            <div className="flex justify-between items-center bg-white dark:bg-slate-900 p-2  ">
                 <div className="flex items-center gap-x-2" >
                     <List className="h-4 w-4" />
                     <div>ซ่อนกระดาษคำตอบ</div>

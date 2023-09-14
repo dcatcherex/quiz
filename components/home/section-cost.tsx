@@ -1,9 +1,14 @@
-export const LandingCost =()=> {
+
+const title ="Select, Start, Success"
+const subtitle ="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elemen tum."
+
+export const SectionCost =()=> {
+
     return (
         <section className="relative pt-28 pb-36 bg-white dark:bg-slate-950  overflow-hidden">
   <div className="relative z-10 container px-4 mx-auto">
-    <h2 className="mb-6 text-4xl text-center font-bold font-heading tracking-px-n leading-none md:max-w-xl mx-auto text-slate-700 dark:text-white">Select, Start, Success</h2>
-    <p className="mb-20 text-lg text-gray-900 dark:text-white/60 text-center font-medium leading-normal md:max-w-lg mx-auto">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elemen tum.</p>
+    <h2 className="mb-6 text-4xl text-center font-bold font-heading tracking-px-n leading-none md:max-w-xl mx-auto text-slate-700 dark:text-white">{title}</h2>
+    <p className="mb-20 text-lg text-gray-900 dark:text-white/60 text-center font-medium leading-normal md:max-w-lg mx-auto">{subtitle}</p>
     <div className="md:max-w-4xl mx-auto">
       <div className="flex flex-wrap -m-5">
         <div className="w-full md:w-1/2 p-5">

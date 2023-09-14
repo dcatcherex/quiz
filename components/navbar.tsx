@@ -21,29 +21,29 @@ const font = Montserrat({
 
 type Props = {};
 
-export const LandingNavbar = async (props: Props) => {
+export const Navbar = async (props: Props) => {
 
   const session = await getAuthSession()
   // console.log(session?.user)
   
 
   return (
-    <nav className="p-4 bg-transparent max-w-[1280px] mx-auto">
+    <nav className=" bg-transparent max-w-[1280px] mx-auto">
       <div className="flex items-center justify-between ">
         <div className="flex items-center gap-x-2">
             <Link href="/" className="flex items-center">
-              <div className="relative h-12 w-16 mr-4">
-                <Image fill alt="logo my craft ai" src="/logo2.png" />
+              <div className="relative h-[32px] w-[220px] mr-4">
+                <Image fill alt="logo my craft ai" src="/logo_horizontal.svg" />
               </div>
-              <h3 className="uppercase font-bold mr-8">Learn Cloud</h3>
+              {/* <h3 className="uppercase font-bold mr-8">Learn Cloud</h3> */}
             </Link>
         
         </div>
         <div>
               <ul className="flex space-x-14">
-                <li className="border-b-4 border-transparent hover:border-b-4 hover:border-[#1C5BB7] transition"><Link href="/">Home</Link></li>
-                <li className="border-b-4 border-transparent hover:border-b-4 hover:border-[#1C5BB7] transition"><Link href="/dashboard">Dashboard</Link></li>
-                <li className="border-b-4 border-transparent hover:border-b-4 hover:border-[#1C5BB7] transition"><Link href="/exam">Exam</Link></li>
+                <li className="p-4 border-b-4 border-transparent hover:border-b-4 hover:border-[#1C5BB7] transition"><Link href="/">Home</Link></li>
+                <li className="p-4 border-b-4 border-transparent hover:border-b-4 hover:border-[#1C5BB7] transition"><Link href="/dashboard">Dashboard</Link></li>
+                <li className="p-4 border-b-4 border-transparent hover:border-b-4 hover:border-[#1C5BB7] transition"><Link href="/exam">Exam</Link></li>
               </ul>
             </div>
         <div className="flex items-center gap-x-2">
